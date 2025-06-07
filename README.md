@@ -1,9 +1,9 @@
 # Predicting-Optimal-Fertilizers
 Playground Series - Season 5, Episode 6
 
-## Predicting Optimal Fertilizers
 Here's a README file for your project, Predicting-Optimal-Fertilizers, which outlines its purpose, installation, usage, and more.
 
+![Image](https://github.com/Ishita95-harvad/Predicting-Optimal-Fertilizers/blob/main/header%20(5).png)
 
 ## Overview
 Predicting-Optimal-Fertilizers is a machine learning-based project that helps farmers and agricultural experts determine the best fertilizer for crops based on various parameters such as soil type, weather conditions, and crop requirements.
